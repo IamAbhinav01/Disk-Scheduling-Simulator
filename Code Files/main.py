@@ -3,7 +3,7 @@ from job_generator import generate_jobs
 from scheduler import Scheduler
 import time
 
-st.title("Disk Scheduling Simulator with AI-Enhanced APZS")
+st.title("Disk Scheduling Simulator")  ##added streamlit functionality
 
 st.sidebar.header("Request Generation Parameters")
 num_jobs = st.sidebar.slider("Number of Requests", 1, 20, 5)
