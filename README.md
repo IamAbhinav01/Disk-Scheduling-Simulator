@@ -1,2 +1,5 @@
 # Disk-Scheduling-Simulator
-Disk scheduling simulator with AI-enhanced APZS algorithm
+# Project Overview
+# Tools Required
+# ScreenShots
+# References
